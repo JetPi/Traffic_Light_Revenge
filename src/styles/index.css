@@ -1,3 +1,47 @@
+.traffic-pole
+{
+    height: 150px;
+    width: 25px
+}
+
+.traffic-box
+{
+    width: 200px;
+    border-radius: 25px;
+}
+
+.light {
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    margin: 10px;
+    border: 0px;
+}
+
+.active {
+    box-shadow: 0px -1px 30px 12px rgba(232,227,232,1);
+}
+
+.red
+{
+    background-color: red;
+}
+
+.green
+{
+    background-color: green;
+}
+
+.yellow
+{
+    background-color: yellow;
+}
+
+.purple
+{
+    background-color: purple;
+}
+
 
 /* 
 
